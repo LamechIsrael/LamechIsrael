@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lamech, an <a href="https://linkedin.com/in/lamechisrael">IT Professional</a></h1>
+<h1>Hi, I'm Lamech, an <a href="https://linkedin.com/in/lamechisrael">DevOps Engineer</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
