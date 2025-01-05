@@ -1,5 +1,9 @@
 <h1>Hi, I'm Lamech, a <a href="https://linkedin.com/in/lamechisrael">DevOps Engineer</a></h1>
 
+<!--<h2>DevOps Projects:</h2>
+
+-->
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
